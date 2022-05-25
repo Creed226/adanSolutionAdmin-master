@@ -1,0 +1,1 @@
+<?php /**PATH C:\xampp\htdocs\adanSolutionAdmin-master\resources\views/layouts/back-end/partials/_front-settings.blade.php ENDPATH**/ ?>
